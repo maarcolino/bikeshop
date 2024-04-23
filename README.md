@@ -74,7 +74,7 @@ prosperando no mercado de bicicletas.
 
 #### Esquema de tabelas para o banco de dados
 
-!["Esquema bikeshop excel"](excel.PNG)
+!["Esquema bikeshop excel"](excel.png)
 
 #### Esquema de diagrama
 
